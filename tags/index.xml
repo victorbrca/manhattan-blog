@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Manhattan Consulting</title>
-    <link>http://manhattan.victormendonca.com/tags/</link>
+    <link>https://manhattan.victormendonca.com/tags/</link>
     <description>Recent content in Tags on Manhattan Consulting</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 04 Oct 2020 21:09:07 -0400</lastBuildDate><atom:link href="http://manhattan.victormendonca.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 04 Oct 2020 21:09:07 -0400</lastBuildDate><atom:link href="https://manhattan.victormendonca.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>about</title>
-      <link>http://manhattan.victormendonca.com/tags/about/</link>
+      <link>https://manhattan.victormendonca.com/tags/about/</link>
       <pubDate>Sun, 04 Oct 2020 21:09:07 -0400</pubDate>
       
-      <guid>http://manhattan.victormendonca.com/tags/about/</guid>
+      <guid>https://manhattan.victormendonca.com/tags/about/</guid>
       <description></description>
     </item>
     
     <item>
       <title>index</title>
-      <link>http://manhattan.victormendonca.com/tags/index/</link>
+      <link>https://manhattan.victormendonca.com/tags/index/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://manhattan.victormendonca.com/tags/index/</guid>
+      <guid>https://manhattan.victormendonca.com/tags/index/</guid>
       <description></description>
     </item>
     

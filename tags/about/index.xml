@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>about on Manhattan Consulting</title>
-    <link>http://manhattan.victormendonca.com/tags/about/</link>
+    <link>https://manhattan.victormendonca.com/tags/about/</link>
     <description>Recent content in about on Manhattan Consulting</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 04 Oct 2020 21:09:07 -0400</lastBuildDate><atom:link href="http://manhattan.victormendonca.com/tags/about/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 04 Oct 2020 21:09:07 -0400</lastBuildDate><atom:link href="https://manhattan.victormendonca.com/tags/about/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello</title>
-      <link>http://manhattan.victormendonca.com/post/hello/</link>
+      <link>https://manhattan.victormendonca.com/post/hello/</link>
       <pubDate>Sun, 04 Oct 2020 21:09:07 -0400</pubDate>
       
-      <guid>http://manhattan.victormendonca.com/post/hello/</guid>
+      <guid>https://manhattan.victormendonca.com/post/hello/</guid>
       <description>Hello, my name is Victor. I&amp;rsquo;m a technical consultant with over ten years of experience in Manhattan WMOS implementations.</description>
     </item>
     

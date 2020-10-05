@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>index on Manhattan Consulting</title>
-    <link>http://manhattan.victormendonca.com/tags/index/</link>
+    <link>https://manhattan.victormendonca.com/tags/index/</link>
     <description>Recent content in index on Manhattan Consulting</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="http://manhattan.victormendonca.com/tags/index/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="https://manhattan.victormendonca.com/tags/index/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Posts</title>
-      <link>http://manhattan.victormendonca.com/post/</link>
+      <link>https://manhattan.victormendonca.com/post/</link>
       <pubDate>Sun, 04 Oct 2020 21:09:07 -0400</pubDate>
       
-      <guid>http://manhattan.victormendonca.com/post/</guid>
+      <guid>https://manhattan.victormendonca.com/post/</guid>
       <description></description>
     </item>
     
