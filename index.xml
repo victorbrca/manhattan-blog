@@ -6,7 +6,16 @@
     <description>Recent content on Manhattan Consulting</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 04 Oct 2020 21:09:07 -0400</lastBuildDate><atom:link href="https://manhattan.victormendonca.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 09 Nov 2020 16:00:00 -0400</lastBuildDate><atom:link href="https://manhattan.victormendonca.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to Configure MIP With Active Directory</title>
+      <link>https://manhattan.victormendonca.com/post/how-to-configure-mip-with-ad/</link>
+      <pubDate>Mon, 09 Nov 2020 16:00:00 -0400</pubDate>
+      
+      <guid>https://manhattan.victormendonca.com/post/how-to-configure-mip-with-ad/</guid>
+      <description>One of the most common configurations changes for WMOS is to have users authenticate against Active Directory instead of the user store in the WMOS database (which is usually the MDA schema in the WMOS database).</description>
+    </item>
+    
     <item>
       <title>Hello</title>
       <link>https://manhattan.victormendonca.com/post/hello/</link>
