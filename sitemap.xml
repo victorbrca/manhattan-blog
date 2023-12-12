@@ -1,74 +1,46 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://manhattan.victormendonca.com/tags/ad/</loc>
     <lastmod>2020-11-09T16:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://manhattan.victormendonca.com/categories/</loc>
     <lastmod>2020-11-09T16:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://manhattan.victormendonca.com/post/how-to-configure-mip-with-ad/</loc>
     <lastmod>2020-11-09T16:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://manhattan.victormendonca.com/</loc>
     <lastmod>2020-11-09T16:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://manhattan.victormendonca.com/tags/mip/</loc>
     <lastmod>2020-11-09T16:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://manhattan.victormendonca.com/categories/mip/</loc>
     <lastmod>2020-11-09T16:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://manhattan.victormendonca.com/post/</loc>
     <lastmod>2020-11-09T16:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://manhattan.victormendonca.com/tags/</loc>
     <lastmod>2020-11-09T16:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://manhattan.victormendonca.com/tags/about/</loc>
     <lastmod>2020-10-04T21:09:07-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://manhattan.victormendonca.com/categories/blog/</loc>
     <lastmod>2020-10-04T21:09:07-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://manhattan.victormendonca.com/post/hello/</loc>
     <lastmod>2020-10-04T21:09:07-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://manhattan.victormendonca.com/contact/</loc>
     <lastmod>2020-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://manhattan.victormendonca.com/about/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://manhattan.victormendonca.com/series/</loc>
   </url>
-  
 </urlset>

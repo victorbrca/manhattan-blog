@@ -6,15 +6,14 @@
     <description>Recent content in blog on Manhattan Consulting</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 04 Oct 2020 21:09:07 -0400</lastBuildDate><atom:link href="https://manhattan.victormendonca.com/categories/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 04 Oct 2020 21:09:07 -0400</lastBuildDate>
+    <atom:link href="https://manhattan.victormendonca.com/categories/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello</title>
       <link>https://manhattan.victormendonca.com/post/hello/</link>
       <pubDate>Sun, 04 Oct 2020 21:09:07 -0400</pubDate>
-      
       <guid>https://manhattan.victormendonca.com/post/hello/</guid>
       <description>Hello, my name is Victor. I&amp;rsquo;m a technical consultant with over ten years of experience in Manhattan WMOS implementations.</description>
     </item>
-    
   </channel>
 </rss>
